@@ -14,11 +14,11 @@
 
 ### Клонирование проекта из GitHub
 1. В IDEA выбрать ```File -> New -> Project from Version Control...```;
-2. В появившемся окне вставить URL репозитория;
+2. В появившемся окне вставить URL репозитория (https://github.com/AndreiAvdko/avito_test_task.git);
 
 ![](/images/screen1.png)
 
-3. Выбрать File -> Settings, в настройках Gradle выставить значения как на скриншоте;
+3. Выбрать File -> Settings, в настройках Gradle выставить значения как на скриншоте, путь должен соответствовать локальному пути до Gradle;
 
 ![](/images/screen2.png)
 
